@@ -16,3 +16,24 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+  margin-top: 2%;
+
+}
+
+.field {
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+
+ margin-right: 0.5%;
+ font-weight: 500;
+ 
+}
+
+.value {
+  font-size: 30px;
+  font-weight: bold;
+}
